@@ -1,2 +1,8 @@
 # ProjekAlgo_206_207
 Projek Akhir Praktikum Algoritma Pemrograman dan Struktur Data
+
+Di era digital saat ini, masyarakat menuntut pelayanan yang cepat, mudah, dan efisien, termasuk dalam bidang transportasi. Perkembangan teknologi informasi mendorong perusahaan untuk menghadirkan layanan berbasis digital guna meningkatkan kualitas pelayanan kepada pengguna. Salah satu bentuk penerapan teknologi tersebut adalah penggunaan aplikasi KAI Access sebagai media pemesanan tiket kereta api secara online yang memberikan kemudahan bagi masyarakat dalam mengakses layanan transportasi (Setiawan, H., & Novita, D. (2021))
+
+PT Kereta Api Indonesia (KAI) sebagai perusahaan BUMN di bidang transportasi kereta api terus melakukan inovasi pelayanan melalui aplikasi KAI Access. Aplikasi tersebut dikembangkan untuk mempermudah masyarakat dalam melakukan pemesanan tiket secara online dengan proses transaksi yang lebih praktis dan efisien. Kemudahan transaksi dan kualitas informasi yang diberikan aplikasi menjadi faktor penting dalam memengaruhi keputusan pembelian tiket kereta api oleh pengguna (Mahar, S. R., Kustiyah, E., & Damayanti, R. (2020)).
+
+Dalam perkembangannya, kualitas website dan tingkat kepercayaan pengguna juga menjadi faktor yang memengaruhi keputusan pembelian tiket kereta api melalui aplikasi KAI Access. Semakin baik kualitas layanan digital yang diberikan, maka semakin tinggi pula tingkat kepercayaan dan minat masyarakat dalam menggunakan aplikasi tersebut sebagai sarana pembelian tiket kereta api secara online (Asnawi, A., Arfani, M., Priyanto, P., Kamariyah, S., & Dwijosusilo, K. (2023))
